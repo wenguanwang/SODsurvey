@@ -36,13 +36,13 @@ Here include the saliency prediction maps for 37 major deep salient object detec
 
 Citation:
 
-	@inproceedings{wang2019sodsurvey,
+	@article{wang2019sodsurvey,
   		title={Salient Object Detection in the Deep Learning Era: An In-Depth Survey},
   		author={Wang, Wenguan and Lai, Qiuxia and Fu, Huazhu and Shen, Jianbing and Ling, Haibin},
-  		booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  		year={2018},
+  		journal={arXiv preprint arXiv:1904.09146},
+  		year={2019},
 	}
-
+	
 If you find our dataset is useful, please cite above paper.
 
 ===========================================================================
