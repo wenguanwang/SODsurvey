@@ -3,9 +3,11 @@
 # Salient Object Detection in the Deep Learning Era: An In-Depth Survey
 
 ===========================================================================
+
 Wenguan Wang, Qiuxia Lai, Huazhu Fu, Jianbing Shen, Haibin Ling
 
 ===========================================================================
+
 Google Disk: https://drive.google.com/open?id=1WSmPaUV909uWF3ycL0MLWPWM6MdSjaJ0
 
 Here include the saliency prediction maps for 37 major deep salient object detection (SOD) methods, a constructed dataset with annotations for attribute analysis, and codes for evaluation (see our paper for details). 
