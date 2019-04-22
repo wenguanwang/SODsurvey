@@ -49,5 +49,5 @@ Contact Information
 Email:
 
 	wenguanwang.ai@gmail.com
-  
-  qxlai@cse.cuhk.edu.hk
+	
+        qxlai@cse.cuhk.edu.hk
