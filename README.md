@@ -8,6 +8,12 @@
 
 ===========================================================================
 
+It is very welcome to send me your saliency maps if your work is published in top-level conference. 
+
+If I miss your work, please let me know and I'll add it.
+
+===========================================================================
+
 Google Disk: https://drive.google.com/open?id=1WSmPaUV909uWF3ycL0MLWPWM6MdSjaJ0
 
 Baidu Disk: https://pan.baidu.com/s/1f63o_QV4za6cdcigHSwhWw extraction code：jp53
