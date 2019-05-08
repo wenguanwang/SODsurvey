@@ -1,6 +1,6 @@
 
 
-# Salient Object Detection in the Deep Learning Era: An In-Depth Survey
+# [Salient Object Detection in the Deep Learning Era: An In-Depth Survey](https://www.researchgate.net/publication/332553805_Salient_Object_Detection_in_the_Deep_Learning_Era_An_In-Depth_Survey)
 
 ===========================================================================
 
