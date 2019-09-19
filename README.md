@@ -20,7 +20,7 @@ Baidu Disk: https://pan.baidu.com/s/1f63o_QV4za6cdcigHSwhWw extraction code：jp
 
 Here include the saliency prediction maps for 46 major deep salient object detection (SOD) methods, a constructed dataset with annotations for attribute analysis, and codes for evaluation (see our paper for details). 
 
-<img src="results.png" width="800px"/>
+<img src="results1.png" width="800px"/>
 ===========================================================================
 
 ## :fire::fire::fire:Update
