@@ -18,9 +18,15 @@ Google Disk: https://drive.google.com/open?id=1WSmPaUV909uWF3ycL0MLWPWM6MdSjaJ0
 
 Baidu Disk: https://pan.baidu.com/s/1f63o_QV4za6cdcigHSwhWw extraction code：jp53
 
-Here include the saliency prediction maps for 37 major deep salient object detection (SOD) methods, a constructed dataset with annotations for attribute analysis, and codes for evaluation (see our paper for details). 
+Here include the saliency prediction maps for 46 major deep salient object detection (SOD) methods, a constructed dataset with annotations for attribute analysis, and codes for evaluation (see our paper for details). 
 
 <img src="results.png" width="800px"/>
+===========================================================================
+## :fire::fire::fire:Update
+
+2019/9: Results of Nine CVPR'19 methods are added.
+
+===========================================================================
 
 1. Saliency prediction maps
   DUT.rar (DUT-OMRON dataset)
