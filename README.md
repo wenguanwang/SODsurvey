@@ -22,6 +22,7 @@ Here include the saliency prediction maps for 46 major deep salient object detec
 
 <img src="results.png" width="800px"/>
 ===========================================================================
+
 ## :fire::fire::fire:Update
 
 2019/9: Results of Nine CVPR'19 methods are added.
