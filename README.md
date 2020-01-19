@@ -25,7 +25,9 @@ Here include the saliency prediction maps for 46 major deep salient object detec
 
 ## :fire::fire::fire:Update
 
-2019/9: Results of Nine CVPR'19 methods are added.
+2020/1: Results of eight ICCV'19 methods are added.
+
+2019/9: Results of eight CVPR'19 methods are added.
 
 ===========================================================================
 
