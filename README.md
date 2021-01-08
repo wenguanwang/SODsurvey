@@ -1,6 +1,6 @@
 
 
-# [A Survey of Deep Learning for Salient Object Detection, PAMI2021](https://www.researchgate.net/publication/332553805_Salient_Object_Detection_in_the_Deep_Learning_Era_An_In-Depth_Survey)
+# [Salient object detection in the deep learning era: An in-depth survey, PAMI2021](https://www.researchgate.net/publication/332553805_Salient_Object_Detection_in_the_Deep_Learning_Era_An_In-Depth_Survey)
 
 ===========================================================================
 
@@ -55,9 +55,9 @@ Citation:
 
 	@article{wang2019sodsurvey,
   		title={Salient Object Detection in the Deep Learning Era: An In-Depth Survey},
-  		author={Wang, Wenguan and Lai, Qiuxia and Fu, Huazhu and Shen, Jianbing and Ling, Haibin},
-  		journal={arXiv preprint arXiv:1904.09146},
-  		year={2019},
+  		author={Wang, Wenguan and Lai, Qiuxia and Fu, Huazhu and Shen, Jianbing and Ling, Haibin and Yang, Ruigang},
+  		journal={TPAMI},
+  		year={2021},
 	}
 	
 If you find our dataset is useful, please cite above paper.
