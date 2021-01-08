@@ -4,7 +4,7 @@
 
 ===========================================================================
 
-[Wenguan Wang](https://sites.google.com/view/wenguanwang), Qiuxia Lai, Huazhu Fu, Jianbing Shen, Haibin Ling
+[Wenguan Wang](https://sites.google.com/view/wenguanwang), Qiuxia Lai, Huazhu Fu, Jianbing Shen, Haibin Ling, Ruigang Yang
 
 ===========================================================================
 
