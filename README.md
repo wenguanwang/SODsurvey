@@ -1,6 +1,6 @@
 
 
-# [A Survey of Deep Learning for Salient Object Detection](https://www.researchgate.net/publication/332553805_Salient_Object_Detection_in_the_Deep_Learning_Era_An_In-Depth_Survey)
+# [A Survey of Deep Learning for Salient Object Detection, PAMI2021](https://www.researchgate.net/publication/332553805_Salient_Object_Detection_in_the_Deep_Learning_Era_An_In-Depth_Survey)
 
 ===========================================================================
 
